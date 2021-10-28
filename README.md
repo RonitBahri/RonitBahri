@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋 , i am Ronit Bahri aka [usr] 
 
-<!--
-**RonitBahri/RonitBahri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a student currently in freshman year 👨🏼‍🎓
+- 📡 I'm learning python and lua as a starter 
+- 🔨 I'm working on, well nothing 
+- 📩 open to any suggestions from people that have experince 😀
 
-Here are some ideas to get you started:
+## Connect with me 
+- instagram @ronitpaaaji  
+- twitter @RonitBahri
+- discord usr#1663
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My goals 
+- 👉 To take part in devlopment and open source projects
+- 👉 To learn python as a intermediate 
+- 👉 To learn as much as possible 
+- 👉 To get in with better people 
+
